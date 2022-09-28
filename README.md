@@ -14,6 +14,10 @@
 
 https://calculator-react-bay.vercel.app/
 
+[💻 Find your Junior on Github ](https://github.com/know-now/Find_Your_Junior)
+
+https://www.youtube.com/channel/UCUQvQ8MJJrk79L34yP3sQxA
+
 ### Connect with me:
 
 
