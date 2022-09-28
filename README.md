@@ -10,7 +10,7 @@
 
 ### Projects
 
-[🧮 Calculator on Github ](https://github.com/know-now/Tiny-React-calculator)
+[🧮 React "Calculator" on Github ](https://github.com/know-now/Tiny-React-calculator)
 
 https://calculator-react-bay.vercel.app/
 
