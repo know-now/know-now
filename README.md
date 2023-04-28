@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning to code everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Become a React-Next.js-master
+- 🥅 2023 Goals: Become a FullStack-master
 - ⚡ About me: I love to learn, drive and travel.
 - 😻 Check out my portfolio here: 
 
