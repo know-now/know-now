@@ -80,28 +80,6 @@ A geospatial image processing project that identifies changes between aerial ima
 
 ---
 
-### 💻 [Find Your Junior — Recruitment Web Application](https://github.com/know-now/Find_Your_Junior)
-
-**PHP | Laravel | MySQL | Laravel Breeze | Blade**
-
-A recruitment-oriented web application connecting junior developers with companies through structured candidate profiles and skill-based searches.
-
-**Key features:**
-- User authentication and role-based workflows.
-- Candidate and company profile management.
-- Skill-based candidate discovery.
-- Relational database models and SQL queries.
-- CV uploads and profile management.
-- Internal messaging between users.
-
-**Engineering focus:** Backend development, database relationships, authentication, and business application workflows.
-
-🔗 [Explore the repository](https://github.com/know-now/Find_Your_Junior)
-
-🎬 [Watch the project demo on YouTube](https://www.youtube.com/channel/UCUQvQ8MJJrk79L34yP3sQxA)
-
----
-
 ## 🧰 Technical Skills
 
 | Area | Technologies & Tools |
